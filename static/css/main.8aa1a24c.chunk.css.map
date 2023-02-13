@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AACA,OACE,uBAAwB,CACzB,QAGC,gBAAiB,CACjB,UAAY,CACb,OAGC,oBAAqB","file":"main.8aa1a24c.chunk.css","sourcesContent":["// styles go here\n.title {\n  margin: 10px 0 10px 20px;\n}\n\n.button {\n  margin-left: 20px;\n  color: black;\n}\n\n.goods {\n  margin: 20px 0 0 20px;\n}\n"]}
